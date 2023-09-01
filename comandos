@@ -2,5 +2,5 @@ git add .
 git status
 git commit -m "bota uma anotação do arquivo aqui"
 git push origin main
-git pull
-ctrl+s pra salvar
+git pull (baixa da web)
+ctrl+s (pra salvar)
