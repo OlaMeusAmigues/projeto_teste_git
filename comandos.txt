@@ -1,6 +1,9 @@
+git pull (baixa da web)
+
+ctrl+s (pra salvar)
 git add .
 git status
 git commit -m "bota uma anotação do arquivo aqui"
 git push origin main
-git pull (baixa da web)
-ctrl+s (pra salvar)
+
+git checkout -b "novo nome da main" muda o nome da main, aí manda um push pra atualizar
