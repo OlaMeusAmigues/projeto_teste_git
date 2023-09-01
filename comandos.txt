@@ -6,4 +6,4 @@ git status
 git commit -m "bota uma anotação do arquivo aqui"
 git push origin main
 
-git checkout -b "nova main" copia a main e cria uma nova com esse nome, aí manda um push pra atualizar, mas com o novo nome no lugar d main
+git checkout -b "nova main" copia a main e cria uma nova branch com o novo nome, aí manda um push pra atualizar, mas com o novo nome no lugar d main
