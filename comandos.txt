@@ -1,9 +1,14 @@
+git clone linkDoBaguiDoGithub (baixa o epositório do github)
+git init (permite modificações e cria a branch master)
+git remote add nomeDoRepositórioQueVcQuiserCriarNoVC linkDoBaguiDoGithub
+git remote -v (checa o repositório criado)
+
 git pull (baixa da web)
 
 ctrl+s (pra salvar)
 git add .
 git status
 git commit -m "bota uma anotação do arquivo aqui"
-git push origin main
+git push origin main (coloca da branch origin, vc criou, na main,VC )
 
-git checkout -b "novo nome da main" muda o nome da main, aí manda um push pra atualizar
+git checkout -b "muda ou cria essa branch" muda o nome da main, aí manda um push pra atualizar
