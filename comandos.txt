@@ -1,6 +1,7 @@
 git clone linkDoBaguiDoGithub (baixa o repositório do github)
 #aí fecha o git hub e abreo vsc dentro da pasta
 git checkout -b "muda ou cria essa branch" muda o nome da main
+git branch --all checa as branchs do git
 
 git init (permite modificações e cria a branch master)
 git remote add nomeDoRepositórioQueVcQuiserCriarNoVC linkDoBaguiDoGithub
@@ -8,8 +9,8 @@ git remote -v (checa o repositório criado)
 
 git pull (atualiza repositório baixando a versão atual da web)
 
-ctrl+s (pra salvar)
-git add .
+ctrl+s (pra salvar no dispositivo)
+git add . (adiciona à fila de save)
 git status (mostra tdos os arquivos em sua branch)
 git commit -m "bota uma anotação do arquivo aqui"
-git push origin main (empurra da main(branch atual do vscode) pro origin(github) )
+git push origin main (empurra da main(branch atual do vscode) pro origin(github, n muda man) )
