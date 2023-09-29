@@ -1,3 +1,16 @@
+-----------------------------------------git--------------------------------------------------
+git config --global user.name "tome" (muda nome do usuário pra tome)
+git config user.name (diz o nome do usuário)
+
+git config --global user.email aiai (muda email do usuário pra aiai)
+git config user.email (diz o email do usuário)
+---------------------------------------vs code------------------------------------------------
+mkdir opa (cria diretório [pasta] opa )
+cd opa (como se fosse só um clique na pasta, só escolhendo ela)
+git init (como se fosse segundo clique, abrindo diretório)
+ls -la
+git status (diz estado de cada arquivo daquelo repositório)
+
 git clone linkDoBaguiDoGithub (baixa o repositório do github)
 #aí fecha o git hub e abreo vsc dentro da pasta
 git checkout -b "muda ou cria essa branch" muda o nome da main
@@ -14,3 +27,5 @@ git add . (adiciona à fila de save)
 git status (mostra tdos os arquivos em sua branch)
 git commit -m "bota uma anotação do arquivo aqui"
 git push origin main (empurra da main(branch atual do vscode) pro origin(github, n muda man) )
+
+
