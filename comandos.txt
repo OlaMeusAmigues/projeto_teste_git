@@ -9,7 +9,7 @@ mkdir opa (cria diretório [pasta] opa )
 cd opa (como se fosse só um clique na pasta, só escolhendo ela)
 git init (como se fosse segundo clique, abrindo diretório)
 ls -la
-git status (diz estado de cada arquivo daquelo repositório)
+git status (diz estado de cada arquivo daquele repositório)
 
 git clone linkDoBaguiDoGithub (baixa o repositório do github)
 #aí fecha o git hub e abreo vsc dentro da pasta
